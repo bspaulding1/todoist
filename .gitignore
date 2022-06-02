@@ -1,0 +1,5 @@
+.DS_Store
+./output
+!./output/empty
+./reference
+!./reference/empty
